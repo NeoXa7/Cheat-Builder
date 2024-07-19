@@ -1,0 +1,7 @@
+﻿  main.cpp
+  Memory.cpp
+D:\Visual Studio\Visual Studio 2022\Cheat Builder C++\CheatBuilder src\Cheat Builder Sln\Cheat Builder\src\Memory\Memory.cpp(41,42): warning C4312: 'type cast': conversion from 'unsigned long' to 'LPVOID *' of greater size
+  Generating Code...
+  Cheat Builder.vcxproj -> D:\Visual Studio\Visual Studio 2022\Cheat Builder C++\CheatBuilder src\Cheat Builder Sln\x64\Debug\Cheat Builder.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
